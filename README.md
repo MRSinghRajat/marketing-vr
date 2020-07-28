@@ -5,14 +5,10 @@ This is a simple demonstration of how easy it is to build virtual reality presen
 ### Installation
 
 
-   
+   I am Using Service Now Tool to View the Virtual reality Experience
 
 
-### Deploy to Github Pages
 
-Make sure you have committed all changes to master branch. Then run:
-
-    npm run deploy
 
 
 ### Links
